@@ -1,0 +1,15 @@
+table {
+    border-collapse: collapse;
+  }
+  
+  td, th {
+    border: 1px solid #eee;
+    text-align: left;
+    padding: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #eee;
+  }
